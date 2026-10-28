@@ -1,0 +1,31 @@
+Order_ID,Order_Date,Customer_Name,City,Product,Category,Quantity,Unit_Price,Sales,Profit,Payment_Method,Expected_Sales,Sales_Mismatch
+1001,2026-05-01,Rahul Sharma,Delhi,Laptop,Electronics,2.0,55000,110000.0,12000.0,UPI,110000.0,False
+1002,2026-01-05,Priya Singh,Mumbai,Mobile,Electronics,3.0,18000,54000.0,6000.0,Cash,54000.0,False
+1003,2026-07-01,Amit Kumar,Delhi,Headphones,Accessories,5.0,1200,6000.0,1500.0,Card,6000.0,False
+1004,2026-08-01,Neha Verma,Bangalore,Keyboard,Accessories,4.0,800,3200.0,600.0,UPI,3200.0,False
+1005,2026-09-01,Unknown,Pune,Monitor,Electronics,2.0,12000,24000.0,3000.0,Card,24000.0,False
+1006,2026-01-10,Rohit Mehta,Delhi,Mouse,Accessories,10.0,500,5000.0,1000.0,Cash,5000.0,False
+1007,2026-11-01,Anjali Gupta,Mumbai,Laptop,Electronics,1.0,55000,55000.0,6000.0,UPI,55000.0,False
+1008,2026-12-01,Vikas Jain,Chennai,Mobile,Electronics,2.0,18000,36000.0,4000.0,Card,36000.0,False
+1009,2026-01-13,Pooja Das,Delhi,Headphones,Accessories,2.0,1200,2400.0,500.0,UPI,,False
+1010,2026-01-14,Arjun Rao,Mumbai,Keyboard,Accessories,3.0,800,2400.0,0.0,Cash,2400.0,False
+1011,2026-01-15,Kavita Roy,Pune,Monitor,Electronics,2.0,12000,24000.0,3000.0,Card,24000.0,False
+1012,2026-01-16,Manish Shah,Delhi,Laptop,Electronics,1.0,55000,55000.0,6000.0,UPI,55000.0,False
+1013,2026-01-17,Simran Kaur,Mumbai,Mobile,Electronics,2.0,18000,36000.0,4000.0,Cash,36000.0,False
+1014,2026-01-18,Deepak Yadav,Pune,Mouse,Accessories,-2.0,500,-1000.0,-200.0,UPI,-1000.0,False
+1015,2026-01-19,,Chennai,Keyboard,Accessories,5.0,800,4000.0,800.0,Card,4000.0,False
+1016,2026-01-20,Sneha Patil,Mumbai,Monitor,Electronics,1.0,12000,12000.0,1500.0,UPI,12000.0,False
+1017,2026-01-21,Karan Malhotra,Delhi,Laptop,Electronics,2.0,55000,110000.0,12000.0,Card,110000.0,False
+1018,2026-01-22,Meera Joshi,Pune,Mobile,Electronics,2.0,18000,36000.0,4000.0,Cash,,False
+1019,2026-01-23,Aditya Sen,Mumbai,Headphones,Accessories,4.0,1200,4800.0,1000.0,UPI,4800.0,False
+1020,2026-01-24,Riya Kapoor,Chennai,Monitor,Electronics,2.0,12000,25000.0,3000.0,Card,24000.0,True
+1021,2026-01-25,Sameer Ali,Delhi,Mouse,Accessories,6.0,500,3000.0,600.0,UPI,3000.0,False
+1022,2026-01-26,Tanya Bose,Mumbai,Mobile,Electronics,2.0,18000,36000.0,4000.0,Cash,36000.0,False
+1023,2026-01-27,Akash Mishra,Pune,Laptop,Electronics,1.0,55000,55000.0,6000.0,Card,55000.0,False
+1024,2026-01-28,Nisha Reddy,Delhi,Headphones,Accessories,3.0,1200,3600.0,700.0,UPI,3600.0,False
+1025,2026-01-28,Nisha Reddy,Delhi,Headphones,Accessories,3.0,1200,3600.0,700.0,UPI,3600.0,False
+1026,2026-01-28,Mohit Saini,Mumbai,Keyboard,Accessories,4.0,800,3200.0,600.0,Cash,3200.0,False
+1027,2026-01-30,Shreya Nair,Pune,Mobile,Electronics,2.0,18000,36000.0,4000.0,UPI,36000.0,False
+1028,2026-05-13,Varun Khanna,Delhi,Monitor,Electronics,1.0,12000,12000.0,1500.0,Card,12000.0,False
+1029,2026-01-02,Ananya Paul,Mumbai,Laptop,Electronics,2.0,55000,110000.0,12000.0,upi,110000.0,False
+1030,2026-02-02,Ishaan Gill,Chennai,Mouse,Accessories,5.0,-500,-2500.0,300.0,Card,-2500.0,False
